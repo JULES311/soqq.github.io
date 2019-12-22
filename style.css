@@ -55,12 +55,12 @@ h1, h2 {
 margin 0;
 }
 
-a {
+.a {
 text-decoration: none;
 text-color: red;
 }
 
-#nav li {
+.a {
 list-style-type: none;
 padding 0;
 text-color: red;
