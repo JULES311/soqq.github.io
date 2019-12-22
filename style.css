@@ -35,7 +35,8 @@ padding: 10px 10px 10px 10px;
   clear: both;
   padding 10px;
   background-color: #999999;
-  
+  text-color: white;
+  text-align: right;
 }
 
 .selected {
