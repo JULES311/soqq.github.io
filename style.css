@@ -34,3 +34,8 @@ padding: 10px 10px 10px 10px;
 #footer {
   clear: both;
 }
+
+.selected {
+  text: bold;
+
+}
