@@ -37,6 +37,11 @@ padding: 10px 10px 10px 10px;
 
 .selected {
   font-weight: bold;
+  
+ h1, h2 {
+margin 0;
+
+  }
 
 }
 
