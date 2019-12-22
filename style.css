@@ -11,4 +11,6 @@ background-color: #66CCFF;
 #container {
   background-color: white;
   width 800px;
+  margin-right auto;
+  margin-left auto;
 }
