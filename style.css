@@ -57,12 +57,13 @@ margin 0;
 
 a {
 text-decoration: none;
-  text-color: red;
+text-color: red;
 }
 
-#nav ul {
+#nav li {
 list-style-type: none;
-  padding 0;
+padding 0;
+text-color: red;
 
 }
 
