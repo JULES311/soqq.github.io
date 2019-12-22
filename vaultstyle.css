@@ -1,18 +1,27 @@
 body {
-background-color: black;
+ background-color: black;
 
 }
 
-
-
 .vault-text {
-  color: #32CD32;
+ color: #32CD32;
   
 }
 
 
 #title-vault {
-  color: #32CD32;
+ color: #32CD32;
   
   
+}
+
+a {
+ color: #32CD32;
+
+
+}
+
+.selected {
+ text-decoration: bold;
+
 }
