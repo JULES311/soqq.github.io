@@ -33,6 +33,9 @@ padding: 10px 10px 10px 10px;
 
 #footer {
   clear: both;
+  padding 10px;
+  background-color: #999999;
+  
 }
 
 .selected {
