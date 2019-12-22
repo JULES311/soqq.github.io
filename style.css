@@ -39,3 +39,8 @@ padding: 10px 10px 10px 10px;
   font-weight: bold;
 
 }
+
+a {
+text-decoration: none;
+  text-color: red;
+}
