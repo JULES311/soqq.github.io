@@ -1,11 +1,18 @@
+body {
+background-color: black;
+
+}
+
+
+
 .vault-text {
-  color: white;
+  color: green;
   
 }
 
 
 #title-vault {
-  color: white;
+  color: green;
   
   
 }
