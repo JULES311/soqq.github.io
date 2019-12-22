@@ -7,7 +7,7 @@ background-color: EEEEEE;
 #header {
 background-color: #66CCFF;
   text-align: center;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 #container {
@@ -57,13 +57,13 @@ margin 0;
 
 .a {
 text-decoration: none;
-text-color: red;
+color: red;
 }
 
 .a {
 list-style-type: none;
 padding 0;
-text-color: red;
+color: red;
 
 }
 
