@@ -7,3 +7,15 @@
   margins: 0;
 
 }
+
+#headermenu {
+  background-color: #00B9ED;
+  height: 30px;
+  border-bottom: 0px;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0px;
+  padding-botton: 0px;
+  
+  
+}
