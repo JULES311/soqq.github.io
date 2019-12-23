@@ -63,3 +63,9 @@ color: red;
 #news {
 text-decoration: bold;
 }
+
+#games-title {
+  text-align: center;
+  font-size: 30px;
+
+}
