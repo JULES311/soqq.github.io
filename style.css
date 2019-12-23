@@ -8,6 +8,8 @@ background-color: EEEEEE;
 background-color: #66CCFF;
   text-align: center;
   font-size: 30px;
+  padding: 0;
+  margin: 0;
 }
 
 #container {
