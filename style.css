@@ -64,7 +64,7 @@ color: red;
 text-decoration: bold;
 }
 
-#games-title {
+#games-title, #chat-title {
   text-align: center;
   font-size: 30px;
 
